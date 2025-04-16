@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Migration%20-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Migration">
 </p>
 
-Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 8 years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
+Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 9+ years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
 
 My journey began as a Backend Development Engineer, working with C# and Microsoft stacks, which gave me a strong foundation in software development and designing large-scale solutions. Over the years, I transitioned into cloud technologies, where I specialize in building and refactoring IT systems to unlock their full potential in the cloud.
 
