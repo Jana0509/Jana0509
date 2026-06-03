@@ -25,6 +25,8 @@ My journey began as a Backend Development Engineer, working with C# and Microsof
 I have extensive experience in:
 * Cloud Migrations: Transforming monolithic applications into sleek, cloud-based microservices and performing lift-and-shift migrations of legacy applications to AWS and Azure.
 * AWS Cloud Administration: Proficient in services such as EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFormation, CloudFront, CloudWatch, and more.
+* Multi-agent orchestration systems (AWS Bedrock Agents, supervisor-based routing, RAG + Lambda tool-calling)
+* Production-ready GenAI apps (Bedrock + Stability Diffusion image generation on ECS Fargate, RAG-powered hotel booking assistants)
 * Monitoring & Optimization: Skilled in tools like Prometheus, Grafana, Jaeger, and AWS monitoring solutions to build scalable, maintainable, and cost-efficient systems.
 * Adept in Docker for container management and adopting DevOps practices, including CI/CD pipelines, to streamline development and deployment processes and Kubernetes for Container Orchestration platform.
 * Expertise in Cloud Cost Optimization and Cost Management.
@@ -32,7 +34,10 @@ I have extensive experience in:
 * Proficiency in infrastructure automation tools like CloudFormation.
 * Adept at conducting technical and leadership training to bridge skill gaps and enhance team performance.
 
-As a cloud enthusiast, I share my knowledge through blogs on AWS services and hands-on tutorials on platforms like Medium and GitHub, empowering others to navigate cloud technologies with ease.
+Writing & Teaching:
+I write about cloud architecture, GenAI engineering, and lessons learned from production deployments on Medium and here on GitHub. My goal is to share patterns that work under real production constraints — not just tutorial demos.
+
+If you're building multi-agent systems, modernizing legacy platforms, or navigating AWS/Azure at scale, feel free to connect. I'm always open to discussing architecture tradeoffs, eval strategies for LLM apps, or how to make Terraform actually maintainable.
 
 Medium : https://medium.com/@tojanasg
 
