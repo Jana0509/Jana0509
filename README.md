@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Cost%20Optimization-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Cost Optimization">
   <img src="https://img.shields.io/badge/Scalability-009639?style=for-the-badge&logo=elastic&logoColor=white" alt="Scalability">
   <img src="https://img.shields.io/badge/Migration%20-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Migration">
-  <img src="https://img.shields.io/badge/Migration%20-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Multi-Agent Systems">
 </p>
 
 Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 9+ years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
